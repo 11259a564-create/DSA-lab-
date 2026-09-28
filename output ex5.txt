@@ -1,0 +1,63 @@
+output ex5
+-- Simple Queue Menu ---
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter value to enqueue: 90 
+90 enqueued to queue.
+
+--- Simple Queue Menu ---
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter value to enqueue: 80
+80 enqueued to queue.
+
+--- Simple Queue Menu ---
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 1
+Enter value to enqueue: 70
+70 enqueued to queue.
+
+--- Simple Queue Menu ---
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 3
+Queue elements: 90 80 70 
+
+--- Simple Queue Menu ---
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 2
+90 dequeued from queue.
+
+--- Simple Queue Menu ---
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 3
+Queue elements: 80 70 
+
+--- Simple Queue Menu ---
+1. Enqueue
+2. Dequeue
+3. Display
+4. Exit
+Enter your choice: 4
+Exiting program.
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.

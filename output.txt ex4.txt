@@ -1,0 +1,7 @@
+output.txt ex4
+Enter a postfix expression (single-digit operands): 123*-5+
+Result = 0.00
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.

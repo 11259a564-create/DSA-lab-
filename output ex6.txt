@@ -1,0 +1,88 @@
+output ex6
+-- Priority Queue Menu ---
+1. Insert
+2. FindMin
+3. DeleteMin
+4. Display
+5.Exit
+Enter your choice: 1
+Enter value to insert: 45
+45 inserted into priority queue.
+
+--- Priority Queue Menu ---
+1. Insert
+2. FindMin
+3. DeleteMin
+4. Display
+5.Exit
+Enter your choice: 1
+Enter value to insert: 60
+60 inserted into priority queue.
+
+--- Priority Queue Menu ---
+1. Insert
+2. FindMin
+3. DeleteMin
+4. Display
+5.Exit
+Enter your choice: 50
+Invalid choice.
+
+--- Priority Queue Menu ---
+1. Insert
+2. FindMin
+3. DeleteMin
+4. Display
+5.Exit
+Enter your choice: 4
+Priority Queue elements: 45 60 
+
+--- Priority Queue Menu ---
+1. Insert
+2. FindMin
+3. DeleteMin
+4. Display
+5.Exit
+Enter your choice: 1
+Enter value to insert: 55
+55 inserted into priority queue.
+
+--- Priority Queue Menu ---
+1. Insert
+2. FindMin
+3. DeleteMin
+4. Display
+5.Exit
+Enter your choice: 4
+Priority Queue elements: 45 60 55 
+
+--- Priority Queue Menu ---
+1. Insert
+2. FindMin
+3. DeleteMin
+4. Display
+5.Exit
+Enter your choice: 2
+Minimum element (highest priority): 45
+
+--- Priority Queue Menu ---
+1. Insert
+2. FindMin
+3. DeleteMin
+4. Display
+5.Exit
+Enter your choice: 3
+Deleted min element: 45
+
+--- Priority Queue Menu ---
+1. Insert
+2. FindMin
+3. DeleteMin
+4. Display
+5.Exit
+Enter your choice: 5
+Exiting program.
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.

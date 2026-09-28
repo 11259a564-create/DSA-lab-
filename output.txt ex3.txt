@@ -1,0 +1,7 @@
+output.txt ex3
+Enter an infix expression: C+D*(A-B)/E
+Postfix expression: CDAB-*E/+
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
